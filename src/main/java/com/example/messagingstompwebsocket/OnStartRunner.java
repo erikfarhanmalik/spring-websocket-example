@@ -1,5 +1,6 @@
 package com.example.messagingstompwebsocket;
 
+import com.example.messagingstompwebsocket.messages.Greeting;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.messaging.simp.SimpMessagingTemplate;
